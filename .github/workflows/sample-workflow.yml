@@ -15,7 +15,7 @@ on:
     inputs:
       name:
         type: string
-        default: World
+        default: 'World'
         description: Name input
         required: true
 
